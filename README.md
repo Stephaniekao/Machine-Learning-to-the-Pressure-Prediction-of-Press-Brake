@@ -53,7 +53,7 @@ GBDT
 
 Physical Validation
 
-Real press-brake tests still show deviations due to factors not captured in the dataset (material batches, springback, tooling wear, alignment).
+- Real press-brake tests still show deviations due to factors not captured in the dataset (material batches, springback, tooling wear, alignment).
 
 Overall:
 SVR remains the most stable model; GBDT shows potential for future datasets with richer or more complex features.
